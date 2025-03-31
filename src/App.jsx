@@ -49,7 +49,7 @@ export function App() {
 
         <h1 className="text-2xl font-bold mb-2.5 text-center">Thank You!</h1>
 
-        <p className="text-sm text-light-grey tracking-1 text-center">We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to get in touch!</p>
+        <p className="text-sm text-light-grey text-center">We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to get in touch!</p>
 
       </div>
     )
